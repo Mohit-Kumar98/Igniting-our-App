@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 // Phase 1
 // core react file.
 // creating h1 element inside the react.
@@ -28,8 +31,8 @@ const parent = React.createElement(
   "div",
   { id: "parent" },
   React.createElement("div", { id: "child" }, [
-    React.createElement("h1", {}, "I am h1 Tag"),
-    React.createElement("h2", {}, "I am h2 Tag"),
+    React.createElement("h1", {}, "Hello World 🚀"),
+    React.createElement("h2", {}, "Hi Mohit is Here to welcome you all."),
   ])
 );
 
