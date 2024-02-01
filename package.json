@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "This is Namaste React",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohit-Kumar98/Igniting-our-App.git"
+  },
+  "keywords": [],
+  "author": "Mohit Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohit-Kumar98/Igniting-our-App/issues"
+  },
+  "homepage": "https://github.com/Mohit-Kumar98/Igniting-our-App#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
